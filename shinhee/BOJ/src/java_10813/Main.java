@@ -1,4 +1,4 @@
-package java_10813;
+package BOJ.src.java_10813;
 
 import java.io.BufferedReader;
 import java.io.IOException;
