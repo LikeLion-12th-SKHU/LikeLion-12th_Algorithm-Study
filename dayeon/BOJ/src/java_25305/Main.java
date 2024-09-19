@@ -15,11 +15,11 @@ public class Main {
         }
 
         int[] y = new int[n];
-        y = BubbleSort(x, n);
+        y = bubbleSort(x, n);
 
         System.out.println(x[n - k]);
     }
-    private static int[] BubbleSort(int[] x, int n) {
+    private static int[] bubbleSort(int[] x, int n) {
         for (int i = 0; i < n-1; i++) {
             for (int j = 0; j < n-1-i; j++) {
                 if (x[j] > x[j+1]) {
