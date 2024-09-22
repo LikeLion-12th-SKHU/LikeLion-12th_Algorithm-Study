@@ -9,7 +9,7 @@ public class Main{
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         int num = Integer.parseInt(br.readLine());    //380
         int money = 1000 - num;
-        int[] arr = {500, 100, 50, 10, 5, 1};
+        final int[] arr = {500, 100, 50, 10, 5, 1};
         int count = 0;
 
         for (int i: arr){
