@@ -2,6 +2,7 @@ package java_31880;
 
 import java.util.Scanner;
 
+// K512컵 개최!
 public class Main {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);

@@ -2,6 +2,7 @@ package java_23841;
 
 import java.util.Scanner;
 
+// 데칼코마니
 public class Main {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);

@@ -2,6 +2,7 @@ package java_25305;
 
 import java.util.Scanner;
 
+// 커트라인
 public class Main {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
