@@ -2,6 +2,7 @@ package java_10996;
 
 import java.util.Scanner;
 
+// 별 찍기-21
 public class Main {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
