@@ -20,7 +20,7 @@ public class Main { // 스택 수열
             INPUT[i] = Integer.parseInt(br.readLine());
         }
 
-        int current = 1;    // 순열 🔺
+        int current = 1;    // 수열 🔺
         int index = 0;
 
         while (index < n) {
