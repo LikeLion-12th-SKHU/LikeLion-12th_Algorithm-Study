@@ -17,6 +17,8 @@
 * 하루에 PR 개수 2개로 제한
 * **매주 수요일 9시반** 과제 검사
 
+** 규칙 불이행시 벌금 1만원 **
+
 ## 커리큘럼
 
 <img width="810" alt="Screenshot 2024-10-01 at 4 46 10 PM" src="https://github.com/user-attachments/assets/649ac1a5-d508-404b-a728-d1b94e80cca7">
