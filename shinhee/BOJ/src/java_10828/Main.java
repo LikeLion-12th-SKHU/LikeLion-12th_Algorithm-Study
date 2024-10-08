@@ -20,17 +20,17 @@ public class Main {
                     push(Integer.parseInt(st.nextToken()), STACK, pointer);
                     break;
                 case "pop":
-                    sb.append(pop(STACK, pointer));
+                    sb.append(pop(STACK, pointer)).append("\n");
                     if (pointer > -1) pointer--;
                     break;
                 case "size":
-                    sb.append(size(pointer));
+                    sb.append(size(pointer)).append("\n");
                     break;
                 case "empty":
-                    sb.append(empty(pointer));
+                    sb.append(empty(pointer)).append("\n");
                     break;
                 case "top":
-                    sb.append(top(STACK, pointer));
+                    sb.append(top(STACK, pointer)).append("\n");
                     break;
             }
         }
