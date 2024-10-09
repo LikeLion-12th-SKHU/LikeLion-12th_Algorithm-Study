@@ -12,13 +12,8 @@ public class Main {
         int n = Integer.parseInt(br.readLine());
 
         int dishes = 1;
-        Stack<Integer> unWashed = new Stack<>();
         Stack<Integer> unDried = new Stack<>();
         Stack<Integer> clean = new Stack<>();
-
-        for (int i = n; i >= n; i--) {
-            unWashed.push(i);
-        }
 
         while (clean.size() != n) {
             StringTokenizer st = new StringTokenizer(br.readLine());
