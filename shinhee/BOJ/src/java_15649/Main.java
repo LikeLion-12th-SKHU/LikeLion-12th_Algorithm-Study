@@ -41,7 +41,7 @@ public class Main {
             if (!visit[i]) {
                 visit[i] = true;
                 arr[depth] = i + 1;
-                NMBackTracking(depth + 1);
+                backTracking(depth + 1);
 
                 visit[i] = false;
             }
